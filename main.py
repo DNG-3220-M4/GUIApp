@@ -1,4 +1,4 @@
-# GUI App created by following Dev Ed
+# GUI App created by following Dev Ed ( ͡° ͜ʖ ͡°)
 
 import tkinter as tk
 from tkinter import filedialog, Text
