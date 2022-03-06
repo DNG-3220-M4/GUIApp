@@ -1,3 +1,5 @@
+# GUI App created by following Dev Ed
+
 import tkinter as tk
 from tkinter import filedialog, Text
 import os
